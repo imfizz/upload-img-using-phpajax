@@ -1,0 +1,7 @@
+dbname = ajaximg
+tblname = upload
+tbl_cols = {
+    name: "varchar(255)",
+    email: "varchar(255)",
+    file_image: "varchar(255)"
+}
